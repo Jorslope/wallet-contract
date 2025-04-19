@@ -1,5 +1,5 @@
-# Wallet V4
-Wallet v4 is proposed version of wallet to replace v3 or older wallets.
+# Wallet V4R2 
+Wallet v4r2 is proposed version of wallet to replace v3 or older wallets.
 
 The main difference from previous versions consist in plugins functionality:
 trusted conjugated contracts may implement complex logic while being able to use all funds from main wallet.
